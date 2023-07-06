@@ -1,2 +1,1 @@
-# androidC-App
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-05-08 at 19 10 55](https://user-images.githubusercontent.com/65543573/236839876-3321db88-d0db-4c14-96e5-ba7367d59ea1.png)
+<img width="423" alt="Screenshot 2023-07-06 at 10 29 57 PM" src="https://github.com/ADISTEIN/androidC-App/assets/65543573/cf998cfc-f65c-46ca-8afd-00e1fff8cf93">
